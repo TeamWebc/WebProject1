@@ -1,2 +1,0 @@
-# WebProject1
-SAPARIM
